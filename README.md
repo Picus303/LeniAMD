@@ -1,4 +1,4 @@
-# LENIAMD: An Ultra-Optimized Cellular Automaton LENIA for GPU
+# LENIAMD: An Highly-Optimized Cellular Automaton LENIA for GPU
 
 **Quick Summary:** This project implements LENIA, a complex cellular automaton, leveraging the interoperability between HIP and Vulkan to achieve exceptional GPU computation efficiency.
 
