@@ -1,0 +1,8 @@
+# Compiled shaders
+*.spv
+
+# Build products
+build/
+
+# VS Code
+.vscode/
